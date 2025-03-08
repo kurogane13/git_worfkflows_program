@@ -28,7 +28,7 @@ This program is a github workflow script which simplifies github branches operat
 - Once the user presses enter, it removes the remote branch, and tracks for the local branch to be removed as well.
 - If finally git pulls the main branch.
 
-To use this program, the user must meet the following equirements:
+To use this program, the user must meet the following requirements:
 
 - gnome-terminal
 - gh tool installed
