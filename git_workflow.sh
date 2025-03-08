@@ -143,9 +143,9 @@ pr_url="https://github.com/$account_owner/$repo_name/pull/new/$branch_name"
 # Open PR in Chrome profile
 while true; do
   echo
-  echo "🔹 1 - Profile Gus"
-  echo "🔹 2 - Profile kuroiyamahar15"
-  echo "🔹 3 - Profile kurogane.tecnology"
+  echo "🔹 1 - Profile <place_your_google_chrome_default_profile_name_here> (default profile)"
+  echo "🔹 2 - Profile <place_your_google_chrome_profile2_name_here> (Profile 2)"
+  echo "🔹 3 - Profile <place_your_google_chrome_profile3_name_here> (Profile 3)"
   echo
   read -p "🌐 Select Chrome profile to open PR: " profile
   case $profile in
